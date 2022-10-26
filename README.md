@@ -8,6 +8,39 @@
 - 👨‍💻 All of my projects are available at [https://github.com/parthk279?tab=repositories](https://github.com/parthk279?tab=repositories)
 - 📄 Know about my experiences [https://drive.google.com/file/d/18wunaq__0JzPQOqfdmLIcgWtb6GTu2B9/view?usp=sharing](https://drive.google.com/file/d/18wunaq__0JzPQOqfdmLIcgWtb6GTu2B9/view?usp=sharing)
 
+#### A little bit about myself
+- I am a 21-year-old graduate student pursuing a masters in Financial Mathermatics at NC State University. I wish to puruse a career as a Quantitative Trader at a propietary trading firm. I internned as a quantitative analysis intern at a trading firm. Looking for opportunities to learn and build new trading strategies. I am available for contact at the links below.
+
+
+**1.** I am currently working on a Pairs Trading strategy for USA equities that looks for cointegration between two stocks and uses statsitical arbitrage to have buy/sell signals. To know more about pairs trading please go [HERE](https://en.wikipedia.org/wiki/Pairs_trade) 
+
+**2.** I am currently learning **C++ for Quantitative Finance and Probability**
+
+**3.** All of my projects can be found here at [My repositories](https://github.com/suryasashankgundepudi?tab=repositories)
+
+**4.** Ask me anything about Python, R, Statistical Data Analysis, Technical Analysis, Portfolio Management and Probability theory.
+
+
+#### Some of my projects are listed below
+
+1. **Visualising Technical Analysis Indicators using Dash** : With this web application I aim to provide a free open source method for new learners or technical analysts to visualize and understand various technical indicators. Learners and traders can use this application to select various technical indicators and then visualize and interact with them. This can help new financial engineers get a better understanding of how various parameters of a technical indicator will affect the way we execute trades. It uses the technical analysis library available for python and Plotly's interactive visualization tools to provide the user with a dynamically changing and interactive tool. **Source Code can be found** [here](https://github.com/suryasashankgundepudi/technical-analysis-visualization-using-python-v1)
+
+2. **Pairs Trading** : Implementing Pairs Trading **Source code can be found** [here](https://github.com/suryasashankgundepudi/Pairs_Trading)
+
+
+
+2. **Flight Delay Prediction:** During my time at the Solarillion Foundation as a Research Assistant I developed a two stage machine learning model after data wrangling that predicts the time, in minutes, by which a flight will arrive late or not. **Source code can be found** [here](https://github.com/suryasashankgundepudi/Flight_Delay_Prediction)
+
+3. **Credit Risk analysis and Predictive Modelling** : To expand my programming skills I implemented various R functions to bring about a report on the german credit data, which contains information about people who have taken loans and have either defaulted or paid them duely. **Source code can be found** [here](https://github.com/suryasashankgundepudi/credit-risk-analysis-and-predictive-modelling)
+
+
+5. **Portfolio Optimization using R** : This is second web application I had deployed using RStudio and shiny. It uses Perfomance Analytics and Portfolio Optimzation to reduce a user's risk and gives them the optimal percentage weight of each stock in their portfolio. This is a reactive application and can be used on any device. **Source code and applicaiton can be found** [here](https://github.com/suryasashankgundepudi/investment-management-and-portfolio-optimization)
+
+
+6. **My first Web application using Shiny :** This is my first project and first shiny web application. I wanted to explore the Shiny package in R, which led me to make an interactive visualization of the movement of the Collatz Conjecture. **Source code and application can be found** [here](https://github.com/suryasashankgundepudi/my-first-shiny-app)
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/parth-katlana-945044a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parth katlana" height="30" width="40" /></a>
