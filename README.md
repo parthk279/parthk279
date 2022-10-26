@@ -1,7 +1,7 @@
+![MasterHead](img/1JKW.gif)
 <h1 align="center">Hi 👋, I'm Parth</h1>
 <h3 align="center">A passionate developer</h3>
-![MasterHead](img/1JKW.gif)
-<img align="right" alt="Coding" width="400" src="img/1JKW.gif">
+<img align="right" alt="Coding" width="1000" src="img/1JKW.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthk279&label=Profile%20views&color=0e75b6&style=flat" alt="parthk279" /> </p>
