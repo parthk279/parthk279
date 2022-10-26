@@ -4,7 +4,8 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthk279&label=Profile%20views&color=0e75b6&style=flat" alt="parthk279" /> </p>
-
+<br>
+<br>
 - 👨‍💻 All of my projects are available at [https://github.com/parthk279?tab=repositories](https://github.com/parthk279?tab=repositories)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/18wunaq__0JzPQOqfdmLIcgWtb6GTu2B9/view?usp=sharing](https://drive.google.com/file/d/18wunaq__0JzPQOqfdmLIcgWtb6GTu2B9/view?usp=sharing)
