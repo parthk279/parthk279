@@ -9,7 +9,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/18wunaq__0JzPQOqfdmLIcgWtb6GTu2B9/view?usp=sharing](https://drive.google.com/file/d/18wunaq__0JzPQOqfdmLIcgWtb6GTu2B9/view?usp=sharing)
 
 #### A little bit about myself
-- I am a 21-year-old graduate student pursuing a masters in Financial Mathermatics at NC State University. I wish to puruse a career as a Quantitative Trader at a propietary trading firm. I internned as a quantitative analysis intern at a trading firm. Looking for opportunities to learn and build new trading strategies. I am available for contact at the links below.
+- I am a 22-year-old graduate student pursuing a masters in Computer Science at NC State University. I wish to puruse a career as a Data Scientist which allows me to work on ML models and result interpretation. I'm working on building a solid background in software development. I interned as a Data science intern at a Impetus technologies and as a SDE at another tech company. Looking for opportunities to learn and build new pojects based data on analysis. I am available for contact at the links below.
 
 
 **1.** I am currently working on a Pairs Trading strategy for USA equities that looks for cointegration between two stocks and uses statsitical arbitrage to have buy/sell signals. To know more about pairs trading please go [HERE](https://en.wikipedia.org/wiki/Pairs_trade) 
