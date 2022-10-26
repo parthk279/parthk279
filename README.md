@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Parth</h1>
-<h3 align="center">A passionate software developer with inclination towards Machine learning models</h3>
+<h3 align="center">A passionate developer</h3>
 <img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://drive.google.com/file/d/1oHW6B-LAt3U9j7qrmAY1FaC1hpLnIpC_/view?usp=sharing)">
 ![gif](img/1JKW.gif.gif)
 
