@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Parth Katlana</h1>
+<h1 align="center">Hi 👋, I'm Parth</h1>
 <h3 align="center">A passionate software developer with inclination towards Machine learning models</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthk279&label=Profile%20views&color=0e75b6&style=flat" alt="parthk279" /> </p>
