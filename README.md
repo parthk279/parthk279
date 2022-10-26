@@ -1,4 +1,3 @@
-![MasterHead](img/1JKW.gif)
 <h1 align="center">Hi 👋, I'm Parth</h1>
 <h3 align="center">A passionate developer, Welcome to Github!!</h3>
 <img align="right" alt="Coding" width="1000" src="img/1JKW.gif">
