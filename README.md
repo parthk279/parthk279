@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Parth</h1>
 <h3 align="center">A passionate software developer with inclination towards Machine learning models</h3>
 <img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://drive.google.com/file/d/1oHW6B-LAt3U9j7qrmAY1FaC1hpLnIpC_/view?usp=sharing)">
+![gif](img/1JKW.gif.gif)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthk279&label=Profile%20views&color=0e75b6&style=flat" alt="parthk279" /> </p>
