@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Parth</h1>
 <h3 align="center">A passionate software developer with inclination towards Machine learning models</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F1JKW&psig=AOvVaw2Wd1A08tUmSHrfPwtyPcNE&ust=1666909291715000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIDjxZP3_voCFQAAAAAdAAAAABAJ)">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthk279&label=Profile%20views&color=0e75b6&style=flat" alt="parthk279" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/parthk279?tab=repositories](https://github.com/parthk279?tab=repositories)
