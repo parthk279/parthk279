@@ -5,8 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthk279&label=Profile%20views&color=0e75b6&style=flat" alt="parthk279" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/parthk279?tab=repositories](https://github.com/parthk279?tab=repositories)
-- 📄 Know about my experiences [https://drive.google.com/file/d/18wunaq__0JzPQOqfdmLIcgWtb6GTu2B9/view?usp=sharing](https://drive.google.com/file/d/18wunaq__0JzPQOqfdmLIcgWtb6GTu2B9/view?usp=sharing)
+📄 Know about my experiences [https://drive.google.com/file/d/18wunaq__0JzPQOqfdmLIcgWtb6GTu2B9/view?usp=sharing](https://drive.google.com/file/d/18wunaq__0JzPQOqfdmLIcgWtb6GTu2B9/view?usp=sharing)
 
 #### A little bit about myself
 - I am a 22-year-old graduate student pursuing a masters in Computer Science at NC State University. I wish to puruse a career as a Data Scientist which allows me to work on ML models and result interpretation. I'm working on building a solid background in software development as well. I interned as a Data science intern at a Impetus technologies and as a SDE at another tech company. Looking for opportunities to learn and build new pojects based data on analysis. I am available for contact at the links below.
