@@ -29,7 +29,7 @@ libraries and tools. [HERE](https://colab.research.google.com/drive/1nasMwzfYEpg
 
 
 
-2. **Flight Delay Prediction:** During my time at the Solarillion Foundation as a Research Assistant I developed a two stage machine learning model after data wrangling that predicts the time, in minutes, by which a flight will arrive late or not. **Source code can be found** [here](https://github.com/suryasashankgundepudi/Flight_Delay_Prediction)
+2. **Athenaeum:** is an application dedicated to connecting you with the books you're searching for. It allows you to search the web and find you the books you seek at a reputable distributor and a good price. Using Athenaeum, you can simplify your journey and minimize your costs as you find the resources you need for class. I have specifically aimed to target students, but all lovers of books are welcome to partake. **Source code can be found** [here](https://github.com/parthk279/Athenaeum)
 
 3. **Credit Risk analysis and Predictive Modelling** : To expand my programming skills I implemented various R functions to bring about a report on the german credit data, which contains information about people who have taken loans and have either defaulted or paid them duely. **Source code can be found** [here](https://github.com/suryasashankgundepudi/credit-risk-analysis-and-predictive-modelling)
 
