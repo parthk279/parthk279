@@ -11,10 +11,10 @@
 - I am a 22-year-old graduate student pursuing a masters in Computer Science at NC State University. I wish to puruse a career as a Data Scientist which allows me to work on ML models and result interpretation. I'm working on building a solid background in software development as well. I interned as a Data science intern at a Impetus technologies and as a SDE at another tech company. Looking for opportunities to learn and build new pojects based data on analysis. I am available for contact at the links below.
 
 
-**1.** I am currently working on Image/Video processing which involves multi-dimensional filtres,Visual perception,Contour and feature extraction, segmentation,Visual information coding. Open to collabrating if you're working on a similar theme. I've been tweaking around with the associated 
+**1.** I am currently working on Image/Video processing which involves Multi-dimensional filtres, Visual perception, Contour and feature extraction,  Segmentation, Visual information coding. Open to collabrating if you're working on a similar theme. I've been tweaking around with the associated 
 libraries and tools. [HERE](https://colab.research.google.com/drive/1nasMwzfYEpgxhnq25SkGmA-raujszEhs#scrollTo=-SiZOS3tRPqX) 
 
-**2.** I am currently learning **C++ for Quantitative Finance and Probability**
+**2.** I am currently learning **Neural Networks and Deep learning**
 
 **3.** All of my projects can be found here at [My repositories](https://github.com/parthk279?tab=repositories)
 
