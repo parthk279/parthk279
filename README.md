@@ -18,7 +18,7 @@ libraries and tools. [HERE](https://colab.research.google.com/drive/1nasMwzfYEpg
 
 **3.** All of my projects can be found here at [My repositories](https://github.com/parthk279?tab=repositories)
 
-**4.** Ask me anything about Python, R, Statistical Data Analysis, Technical Analysis, Portfolio Management and Probability theory.
+**4.** Ask me anything about Python, R, Statistical Data Analysis, Machine Learning Models, variable analysis and Graph theory.
 
 
 #### Some of my projects are listed below
