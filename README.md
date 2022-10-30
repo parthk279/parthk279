@@ -12,7 +12,7 @@
 
 
 **1.** I am currently working on Image/Video processing which involves Multi-dimensional filtres, Visual perception, Contour and feature extraction,  Segmentation, Visual information coding. Open to collabrating if you're working on a similar theme. I've been tweaking around with the associated 
-libraries and tools. [HERE](https://colab.research.google.com/drive/1nasMwzfYEpgxhnq25SkGmA-raujszEhs#scrollTo=-SiZOS3tRPqX) 
+libraries and tools, to understand the space better [HERE](https://colab.research.google.com/drive/1nasMwzfYEpgxhnq25SkGmA-raujszEhs#scrollTo=-SiZOS3tRPqX) 
 
 **2.** I am currently learning **Neural Networks and Deep learning**
 
