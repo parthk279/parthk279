@@ -29,7 +29,7 @@ libraries and tools, to understand the space better [HERE](https://colab.researc
 
 3. **Uber Pickups in NYC** : This project aims to analysis the pickup locations of users of uber and make meaningful inferences based on them. Another obkective to simply create representative visualizations for the import features. **Source code can be found** [here](https://github.com/suryasashankgundepudi/Pairs_Trading)
 
-4. **Credit Risk analysis and Predictive Modelling** : To expand my programming skills I implemented various R functions to bring about a report on the german credit data, which contains information about people who have taken loans and have either defaulted or paid them duely. **Source code can be found** [here](https://github.com/suryasashankgundepudi/credit-risk-analysis-and-predictive-modelling)
+4. **Traffic Monitoring System** : This is a project designed to extract meaningful data using image processing and use that data to train a HOG/SVM classifier to generate a system to reduce the wait time for cars and pedestrians in high traffic zones. **Source code can be found** [here](https://github.com/parthk279/Traffic-Monitoring-System)
 
 
 5. **Portfolio Optimization using R** : This is second web application I had deployed using RStudio and shiny. It uses Perfomance Analytics and Portfolio Optimzation to reduce a user's risk and gives them the optimal percentage weight of each stock in their portfolio. This is a reactive application and can be used on any device. **Source code and applicaiton can be found** [here](https://github.com/suryasashankgundepudi/investment-management-and-portfolio-optimization)
