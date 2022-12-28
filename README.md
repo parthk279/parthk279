@@ -35,7 +35,7 @@ libraries and tools, to understand the space better [HERE](https://colab.researc
 5. **Portfolio Optimization using R** : This is second web application I had deployed using RStudio and shiny. It uses Perfomance Analytics and Portfolio Optimzation to reduce a user's risk and gives them the optimal percentage weight of each stock in their portfolio. This is a reactive application and can be used on any device. **Source code and applicaiton can be found** [here](https://github.com/suryasashankgundepudi/investment-management-and-portfolio-optimization)
 
 
-6. **My first Web application using Shiny :** This is my first project and first shiny web application. I wanted to explore the Shiny package in R, which led me to make an interactive visualization of the movement of the Collatz Conjecture. **Source code and application can be found** [here](https://github.com/suryasashankgundepudi/my-first-shiny-app)
+6. **Find My Roomie :** FindMyRoomie is a Web Application that provides a platform for wolves (NC State students) to find roommates of their preference. The stakes are high when it comes to finding your best roommate because this relationship starts with a living relationship 😅. The software is designed using Django, Python, REST API, PostgreSQL, HTML/CSS and Javascript with functionalities that allow you to filter and choose your ideal roommate. But if that is too much work for you, we also provide roommate suggestions based on your preferences! Any NC State student could sign up with their NC State Email address from any corner of the world on our website and begin searching for roommates.. **Source code and application can be found** [here](https://github.com/Nikhil1912/FindMyRoomie_2.0)
 
 
 
