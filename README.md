@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parth</h1>
 <h3 align="center">A passionate developer, Welcome to my Github!!</h3>
-<img align="right" alt="Coding" width="1000" src="img/1JKW.gif">
+<img align="right" alt="Coding" width="1000" src="giphy.gif">
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthk279&label=Profile%20views&color=0e75b6&style=flat" alt="parthk279" /> </p>
