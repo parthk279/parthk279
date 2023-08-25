@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="1000" src="img/1JKW.gif">
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthk279&label=Profile%20views&color=0e75b6&style=flat" alt="parthk279" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=parthk279&label=Profile%20views&color=0e75b6&style=flat" alt="parthk279](https://docs.google.com/document/d/14t8hXS5ya1UORa4oEzIqDnj9GT1tjI0A/edit?usp=sharing&ouid=109661486016530485549&rtpof=true&sd=true)" /> </p>
 
 📄 Know about my experiences https://docs.google.com/document/d/14t8hXS5ya1UORa4oEzIqDnj9GT1tjI0A/edit?usp=share_link&ouid=109661486016530485549&rtpof=true&sd=true
 
