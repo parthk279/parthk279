@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="(https://docs.google.com/document/d/14t8hXS5ya1UORa4oEzIqDnj9GT1tjI0A/edit?usp=sharing&ouid=109661486016530485549&rtpof=true&sd=true)" /> </p>
 
-📄 Know about my experiences https://docs.google.com/document/d/14t8hXS5ya1UORa4oEzIqDnj9GT1tjI0A/edit?usp=share_link&ouid=109661486016530485549&rtpof=true&sd=true
+📄 Know about my experiences https://docs.google.com/document/d/14t8hXS5ya1UORa4oEzIqDnj9GT1tjI0A/edit?usp=sharing&ouid=109661486016530485549&rtpof=true&sd=true
 
 #### A little bit about myself
 - I am a 22-year-old graduate student pursuing a masters in Computer Science at NC State University. I wish to puruse a career as a Data Scientist which allows me to work on ML models and result interpretation. I'm working on building a solid background in software development as well. I interned as a Data science intern at a Impetus technologies and as a SDE at another tech company. Looking for opportunities to learn and build new pojects based data on analysis. I am available for contact at the links below.
