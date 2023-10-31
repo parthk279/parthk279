@@ -8,13 +8,16 @@
 📄 Know about my experiences https://docs.google.com/document/d/16-b79dI9akCTwfZ06UCMKuj8uOWyMyqD/edit?usp=sharing&ouid=109661486016530485549&rtpof=true&sd=true
 
 #### A little bit about myself
-- I am a 23-year-old graduate student pursuing a masters in Computer Science at NC State University. I wish to puruse a career as a Data Scientist which allows me to work on ML models and result interpretation. I'm working on building a solid background in software development as well. I've published some research in the field of Large Language models and Text summarization consequently I've worked as a Data Scientist and ML Engineer at Impetus Technologies and as an SDE at another tech company. Now, I'm looking for opportunities to learn and build new product-based projects. I am available for contact at the links below.
+- I am a 23-year-old graduate student pursuing a masters in Computer Science at NC State University. I wish to pursue a career as a Data Scientist which allows me to work on ML models and result interpretation. I'm working on building a solid background in software development as well. I've published some research in the field of Large Language models and Text summarization consequently I've worked as a Data Scientist and ML Engineer at Impetus Technologies and as an SDE at another tech company. Now, I'm looking for opportunities to learn and build new product-based projects. I am available for contact at the links below.
 
 
-**1.** I am currently working on Image/Video processing which involves Multi-dimensional filtres, Visual perception, Contour and feature extraction,  Segmentation, Visual information coding. Open to collabrating if you're working on a similar theme. I've been tweaking around with the associated 
+**1.**  I recently completed a paper with **Ensemble for Hallucination Detection**. Our study delves into a suite of unsupervised metrics for summary consistency, analyzing their correlations with human evaluations. We've discovered that methods based on Large Language Models (LLMs) like GPT significantly outperform other metrics in detecting hallucinations.
+
+By comparing these metrics to models made from an ensemble, we found that ensemble methods can further improve accuracy, especially when the metrics in the ensemble have similar and uncorrelated error rates.
+Our proposed ensemble method for LLM-based evaluations shows promising improvements over the previous state-of-the-art, marking a step forward in ensuring the reliability of text summarization technologies. [Full Paper](https://arxiv.org/abs/2310.10495)
+
+**2.** I am currently working on Image/Video processing which involves Multi-dimensional filtres, Visual perception, Contour and feature extraction, Segmentation, Visual information coding. Open to collabrating if you're working on a similar theme. I've been tweaking around with the associated 
 libraries and tools, to understand the space better [HERE](https://colab.research.google.com/drive/1nasMwzfYEpgxhnq25SkGmA-raujszEhs#scrollTo=-SiZOS3tRPqX) 
-
-**2.** I am currently working with **Large Language Models, Generative AI, Hallucinations and Video Processing**
 
 **3.** All of my projects can be found here at [My repositories](https://github.com/parthk279?tab=repositories)
 
