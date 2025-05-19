@@ -8,7 +8,7 @@
 📄 Know about my experiences https://docs.google.com/document/d/16-b79dI9akCTwfZ06UCMKuj8uOWyMyqD/edit?usp=sharing&ouid=109661486016530485549&rtpof=true&sd=true
 
 #### A little bit about myself
-- I am a 24-year-old graduate student pursuing a masters in Computer Science at NC State University. I wish to pursue a career as a Data Scientist which allows me to work on ML models and result interpretation. I'm working on building a solid background in software development as well. I've published some research in the field of Large Language models and Text summarization consequently I've worked as a Data Scientist and ML Engineer at Impetus Technologies and as an SDE at another tech company. Now, I'm looking for opportunities to learn and build new product-based projects. I am available for contact at the links below.
+- Hi. I'm a 24-year-old Machine Learning Engineer working with NCICS, NOAA NCEI and I have a master's degree in Computer Science(Data Science Track) from NC State University. I've 3+ years of experience designing, implementing, and deploying large-scale generative AI solutions on AWS. Expert in building distributed training pipelines, fine-tuning LLMs, and optimizing ML models. Proven track record of collaborating with cross-functional teams and enterprise customers to deliver customized AI applications at scale.
 
 
 **1.**  I recently completed a paper with **Ensemble for Hallucination Detection**. Our study delves into a suite of unsupervised metrics for summary consistency, analyzing their correlations with human evaluations. We've discovered that methods based on Large Language Models (LLMs) like GPT significantly outperform other metrics in detecting hallucinations.
